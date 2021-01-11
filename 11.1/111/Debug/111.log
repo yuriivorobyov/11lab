@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  111.cpp
+C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\11.1\11.1.cpp(39,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\11.1\11.1.cpp(92,12): warning C4101: 'avgOdd': unreferenced local variable
+C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\11.1\11.1.cpp(92,20): warning C4101: 'avgEven': unreferenced local variable
+C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\111\111.cpp(21,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\Debug\111.lib and object C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\Debug\111.exp
+  111.vcxproj -> C:\Users\User\Desktop\Політех\АТП\лаби\10 тема\11.1\Debug\111.dll
